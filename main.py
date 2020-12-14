@@ -12,7 +12,8 @@ import webbrowser
 
 
 PS5_URLS = {
-    'Sony Direct': 'https://direct.playstation.com/en-us/consoles/console/playstation5-console.3005816',
+    'Sony': 'https://direct.playstation.com/en-us/consoles/console/playstation5-console.3005816',
+    'Sony (direct queue)': 'https://direct-queue.playstation.com/softblock/?c=sonyied&e=psdirectprodku1&t=https%3A%2F%2Fdirect.playstation.com%2Fen-us%2Fhardware%2Fps5&cid=en-US',
     'Target': 'https://www.target.com/p/playstation-5-console/-/A-81114595',
     'BestBuy': 'https://www.bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149',
     'Best Buy (bundles)': 'https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&fs=saas&id=pcat17071&iht=y&keys=keys&ks=960&list=n&nrp=15&saas=saas&sc=Global&sp=-currentprice%20skuidsaas&st=ps5%20bundle&type=page&usc=All%20Categories',
@@ -27,6 +28,7 @@ PS5_URLS = {
 }
 HELPER_URLS = {
     'Spieltimes YT': 'https://www.youtube.com/c/SpielTimes/videos',
+    'Blaze2K YT': 'https://www.youtube.com/c/Blaze2k/videos',
     'Tweet Deck': 'https://tweetdeck.twitter.com/',
     'Now In Stock': 'https://www.nowinstock.net/videogaming/consoles/sonyps5/',
 }
