@@ -13,11 +13,11 @@ import webbrowser
 
 PS5_URLS = {
     'Sony Direct': 'https://direct.playstation.com/en-us/consoles/console/playstation5-console.3005816',
-    'Target': 'https://goto.target.com/c/62662/115444/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fplaystation-5-console%2F-%2FA-81114595',
-    'BestBuy': 'https://bestbuy.7tiv.net/c/62662/615614/10014?subId1=nisgen&u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-playstation-5-console%2F6426149.p%3FskuId%3D6426149',
+    'Target': 'https://www.target.com/p/playstation-5-console/-/A-81114595',
+    'BestBuy': 'https://www.bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149',
     'Best Buy (bundles)': 'https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&fs=saas&id=pcat17071&iht=y&keys=keys&ks=960&list=n&nrp=15&saas=saas&sc=Global&sp=-currentprice%20skuidsaas&st=ps5%20bundle&type=page&usc=All%20Categories',
     'GameStop': 'https://www.gamestop.com/video-games/playstation-5/consoles',
-    'Walmart': 'https://goto.walmart.com/c/62662/612734/9383?subId1=nismain&sourceid=imp_000011112222333344&veh=aff&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSony-PlayStation-5%2F363472942',
+    'Walmart': 'https://www.walmart.com/ip/Sony-PlayStation-5/363472942',
     'Amazon': 'https://www.amazon.com/dp/B08FC5L3RG',
     'NewEgg': 'https://www.newegg.com/PlayStation-PS5-Systems/BrandSubCat/ID-1541-3762',
     'Ant Online (bundle)': 'https://www.antonline.com/Sony/Electronics/Gaming_Devices/Gaming_Consoles/1409261',
